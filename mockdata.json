@@ -1,0 +1,35 @@
+[
+	{
+		"Program": "CB",
+		"Company": "Finisar Sdn Bhd",
+		"Lat": "4.67401",
+		"Long": "101.12345999999999"
+	},
+	{
+		"Program": "CD",
+		"Company": "IBM UMP",
+		"Lat": "3.7184910000000002",
+		"Long": "3.7184910000000002"
+	},
+	{
+		"Program": "CB",
+		"Company": "CAD-IT Concultant",
+		"Lat": "3.0833330000000001",
+		"Long": "101.65"
+	},
+	{
+		"Program": "CB",
+		"Company": "CAD-IT Concultant",
+		"Lat": "3.0833330000000001",
+		"Long": "101.65"
+	},
+	{
+		"Program": "CD",
+		"Company": "EPNOX TECHNOLOGIES SDN BHD",
+		"Lat": "3.067361",
+		"Long": "101.1015"
+	},
+	{
+		"Program": ""
+	}
+]
